@@ -8,3 +8,7 @@ stackoverflow
 Specific Links:
 https://stackoverflow.com/questions/12258399/how-to-create-folder-in-github-repository
 https://help.github.com/articles/adding-a-file-to-a-repository/
+https://stackoverflow.com/questions/3942254/how-to-specify-font-attributes-for-all-elements-on-an-html-web-page
+http://www.html.am/html-codes/marquees/html-scrolling-text.cfm
+https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_font_face_css
+https://www.w3schools.com/css/css_positioning.asp
